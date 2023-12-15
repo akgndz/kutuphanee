@@ -1,0 +1,10 @@
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.Form1.resources
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.Properties.Resources.resources
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\bin\Debug\kütüphaneuygg.exe.config
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\bin\Debug\kütüphaneuygg.exe
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\bin\Debug\kütüphaneuygg.pdb
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.exe
+C:\Users\Elif\source\repos\kütüphaneuygg\kütüphaneuygg\obj\Debug\kütüphaneuygg.pdb
